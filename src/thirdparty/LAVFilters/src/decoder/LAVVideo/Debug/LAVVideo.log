@@ -1,0 +1,1 @@
+﻿D:\work\nebulaPlayer\mpc-hc\src\thirdparty\LAVFilters\src\decoder\LAVVideo\LAVVideo.vcxproj(35,3): error MSB4019: 未找到导入的项目“D:\work\nebulaPlayer\ocxPlayer\common\platform.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
